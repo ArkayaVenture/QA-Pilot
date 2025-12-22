@@ -85,7 +85,7 @@ llamaindex-py-client==0.1.19
 lz4==4.3.3
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
-marshmallow==3.21.1
+marshmallow==3.26.2
 mdurl==0.1.2
 mkl==2021.4.0
 mmh3==4.1.0
