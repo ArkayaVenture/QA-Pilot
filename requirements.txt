@@ -69,7 +69,7 @@ kubernetes==29.0.0
 langchain==0.2.6
 langchain-anthropic==0.1.15
 langchain-chroma==0.1.1
-langchain-community==0.2.6
+langchain-community==0.3.27
 langchain-core==0.2.11
 langchain-huggingface==0.0.2
 langchain-mistralai==0.1.8
