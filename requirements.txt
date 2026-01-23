@@ -120,7 +120,7 @@ pillow==10.2.0
 posthog==3.5.0
 pox==0.3.4
 ppft==1.7.6.8
-protobuf==4.25.3
+protobuf==7.34.0rc1
 psycopg2-binary==2.9.9
 pulsar-client==3.4.0
 pyarrow==15.0.2
