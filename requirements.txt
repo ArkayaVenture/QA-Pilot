@@ -70,7 +70,7 @@ langchain==0.2.6
 langchain-anthropic==0.1.15
 langchain-chroma==0.1.1
 langchain-community==0.2.6
-langchain-core==0.2.11
+langchain-core==1.2.11
 langchain-huggingface==0.0.2
 langchain-mistralai==0.1.8
 langchain-nvidia-ai-endpoints==0.1.2
